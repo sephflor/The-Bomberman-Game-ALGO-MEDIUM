@@ -1,1 +1,1 @@
-# The-Bomberman-Game-ALGO-MEDIUM
+# The-Bomberman-Game-ALGO-MEDIUM.The solution exploits the Bomberman game's repeating pattern: even seconds produce a full bomb grid, while odd seconds follow a 4-second cycle after the initial state. It uses a helper to simulate bomb detonations and directly computes the final grid without simulating every second.
